@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Saifurrahmanemon/saifurrahmanemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Saif:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.username = 'saif'
+        self.name = 'Saifur Rahman Emon'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Material UI' 'Boostrap', 'TailWind'],
+            'backend': ['Python','Django', 'NodeJS'],
+            'database': ['PostgreSQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
+            'tools': ['GIT', 'GitHub'],
+            'misc': ['Firebase', 'GNU/Linux']
+        }
+        self.architecture = ['RESTful API', 'Serverless', 'microservices']
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Saif()
