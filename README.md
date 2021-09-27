@@ -1,9 +1,14 @@
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Emon!](https://github.com/Saifurrahmanemon) !!
+
+</h2>
+
+<hr/>
 
 ```python
-class Saif:
+class Emon:
 
     def __init__(self):
-        self.username = 'saif'
+        self.username = 'Emon'
         self.name = 'Saifur Rahman Emon'
         self.bio = 'Tech enthusiast, with a constantly growing love for languages. Loves to work as a team and learn new tech' 
         self.code = {
@@ -21,5 +26,5 @@ class Saif:
 
 
 if __name__ == '__main__':
-    me = Saif()
+    me = Emon()
 
