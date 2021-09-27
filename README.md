@@ -22,3 +22,5 @@ class Saif:
 
 if __name__ == '__main__':
     me = Saif()
+
+![Saif's github stats](https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true&hide_border=true)
