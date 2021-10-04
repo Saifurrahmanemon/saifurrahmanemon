@@ -1,8 +1,11 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Emon!](https://github.com/Saifurrahmanemon) !!
 
+
 </h2>
 
 <hr/>
+
+
 
 ```python
 class Emon:
@@ -27,5 +30,5 @@ class Emon:
 
 if __name__ == '__main__':
     me = Emon()
-
-##<img src="https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true" />
+```
+<img src="https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true" />
