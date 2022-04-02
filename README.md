@@ -18,7 +18,7 @@ class Emon:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Material UI' 'Boostrap', 'TailWind'],
             'backend': ['Python','Django', 'NodeJS'],
             'database': ['PostgreSQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
+            'devops': ['Docker', 'GitHub Actions', 'Heroku', Netlify],
             'tools': ['GIT', 'GitHub'],
             'misc': ['Firebase', 'GNU/Linux']
         }
