@@ -15,8 +15,8 @@ class Emon:
         self.name = 'Saifur Rahman Emon'
         self.bio = 'Tech enthusiast, with a constantly growing love for languages. Loves to work as a team and learn new tech' 
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Material UI' 'Boostrap', 'TailWind'],
-            'backend': ['Python','Django', 'NodeJS'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React.JS', 'Mantine UI', 'Material UI' , 'Tailwind', 'TypeScript'],
+            'backend': ['Python','Django', 'Node.JS'],
             'database': ['PostgreSQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku', 'Netlify'],
             'tools': ['GIT', 'GitHub'],
