@@ -1,22 +1,41 @@
-## Hey there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, It's [Emon!](https://github.com/Saifurrahmanemon) !!
+<h1 align="center">Hi 👋, I'm Saifur Rahman Emon</h1>
+<h3 align="center">A passionate Full stack Developer looking for opportunity</h3>
+<br/>
+<p align="center">
+  <a href="https://leetcode.com/saifur789/">
+    <img src="https://cp-logo.vercel.app/leetcode/saifur789" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/14268541/saif789" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
+</a>
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saifurrahmanemon?color=green&logo=github">
+  </a>
 
+</p>
 
-</h2>
+#### Now
 
-<hr/>
+-  ✨ Building to [AnalyzeCHAR](https://github.com/Saifurrahmanemon/image-analytics);
 
+#### Bio
 
+-  🏢 I'm currently looking for a job in the field of Software Development;
+-  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`
+-  🌍 I'm mostly active within the **Javascript Community**
+-  🌱 Learning all about **GraphQL**
+-  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/)
 
 ```python
 class Emon:
 
     def __init__(self):
         self.username = 'Saifurrahmanmon'
-        self.name = 'Saifur Rahman Emon'
-        self.bio = 'Tech enthusiast, with a constantly growing love for languages. Loves to work as a team and learn new tech' 
+        self.bio = 'Tech enthusiast, with a constantly growing love for languages. Loves to work as a team and learn new tech'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React.JS', 'Mantine UI', 'Material UI' , 'Tailwind', 'TypeScript'],
-            'backend': ['Python','Django', 'Node.JS'],
+            'backend': ['Python','Django', 'Node.JS', 'GraphQL','Express'],
             'database': ['PostgreSQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'GitHub Actions', 'Heroku', 'Netlify'],
             'tools': ['GIT', 'GitHub'],
@@ -31,4 +50,16 @@ class Emon:
 if __name__ == '__main__':
     me = Emon()
 ```
+
+<b>&#128200; Problem Solving</b>
+
+<p float="center">
+<img height="250em"  src="https://leetcard.jacoblin.cool/saifur789?theme=light&font=Karma&ext=activity" />
+</p>
+
+<b>⚡ Github Stats</b>
+
+<p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifurrahmanemon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
