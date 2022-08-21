@@ -53,13 +53,13 @@ if __name__ == '__main__':
 
 <b>&#128200; Problem Solving</b>
 
-<p float="center">
-<img height="250em"  src="https://leetcard.jacoblin.cool/saifur789?theme=light&font=Karma&ext=activity" />
+<p float="left">
+<img height="200em"  src="https://leetcard.jacoblin.cool/saifur789?theme=light&font=Karma&ext=activity" />
 </p>
 
 <b>⚡ Github Stats</b>
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true" />
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifurrahmanemon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height='150em' src="https://github-readme-stats.vercel.app/api?username=Saifurrahmanemon&show_icons=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifurrahmanemon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
