@@ -24,7 +24,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
 -  🏢 I'm currently looking for an opportunity;
 -  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`
 -  🌍 I'm mostly active within the **Javascript Community**
--  🌱 Learning all about **GraphQL**
+-  🌱 Learning all about **Jest**, **React Testing Library**, **Cypress**
 -  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/)
 
 ```python
