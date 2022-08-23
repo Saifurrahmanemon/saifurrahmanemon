@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saifur Rahman Emon</h1>
-<h3 align="center">A passionate Full stack Developer looking for opportunity</h3>
+<h3 align="center">A passionate Full stack Developer who loves to solve problems.</h3>
 <br/>
 <p align="center">
   <a href="https://leetcode.com/saifur789/">
@@ -21,7 +21,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
 
 #### Bio
 
--  🏢 I'm currently looking for a job in the field of Software Development;
+-  🏢 I'm currently looking for an opportunity;
 -  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`
 -  🌍 I'm mostly active within the **Javascript Community**
 -  🌱 Learning all about **GraphQL**
