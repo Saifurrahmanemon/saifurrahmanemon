@@ -17,7 +17,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
 
 #### Now
 
--  ✨ Building [AnalyzeCHAR](https://github.com/Saifurrahmanemon/image-analytics);
+-  ✨ Building [Quizee](https://github.com/Saifurrahmanemon/Quizee);
 
 #### Bio
 
