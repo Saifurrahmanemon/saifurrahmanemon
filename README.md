@@ -21,11 +21,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
 
 #### Bio
 
--  🏢 I'm currently looking for an opportunity;
--  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`
--  🌍 I'm mostly active within the **Javascript Community**
--  🌱 Learning all about **Jest**, **React Testing Library**, **Cypress**
--  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/)
+-  🏢 I'm currently working as a Software Developer @ Earnest Fintech Limited;
+-  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`;
+-  🌍 I'm mostly active within the **Javascript Community**;
+-  🌱 Learning all about **Jest**, **React Testing Library**, **Cypress**;
+-  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/);
 
 ```python
 class Emon:
