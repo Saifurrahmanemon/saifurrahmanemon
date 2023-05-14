@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saifur Rahman Emon</h1>
-<h3 align="center">A passionate Full stack Developer who loves to solve problems.</h3>
+<h3 align="center">A passionate full-stack developer who loves to solve problems.</h3>
 <br/>
 <p align="center">
   <a href="https://leetcode.com/saifur789/">
@@ -15,16 +15,16 @@ src="https://stackoverflow-badge.vercel.app/?userID=14268541" />
 
 </p>
 
-#### Now
+<!-- #### Now
 
--  ✨ Building [Quizee](https://github.com/Saifurrahmanemon/Quizee);
+-  ✨ Building [Quizee](https://github.com/Saifurrahmanemon/Quizee); -->
 
 #### Bio
 
--  🏢 I'm currently working as a Software Developer @ Earnest Fintech Limited;
+-  🏢 I'm currently working as a Software Developer @ Earnest Data Analytics Private Limited;
 -  ⚙️ I use daily: `.py`, `.js`, `.ts`, `.tsx`;
 -  🌍 I'm mostly active within the **Javascript Community**;
--  🌱 Learning all about **Jest**, **React Testing Library**, **Cypress**;
+-  🌱 Learning all about **Rust**;
 -  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/);
 
 ```python
