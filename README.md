@@ -9,7 +9,7 @@
 
 ```javascript
 function bio() {
-    const username = 'Saifurrahmanmon';
+    const username = 'Saifurrahmanemon';
     const bio = 'Tech enthusiast, with a constantly growing love for languages.';
     const toolbox = {
         frontend: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React.JS', 'Next.JS', 'Svelte'],
