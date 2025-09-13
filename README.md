@@ -2,7 +2,7 @@
 
 #### Bio
 
--  🏢 I'm currently working as a Software Developer @ Earnest Data Analytics Private Limited
+-  🏢 I'm currently working as a Software Engineer.
 -  ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.py`
 -  🌍 I'm mostly active within the **Javascript Community**
 -  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saifurrahmanemon/)
